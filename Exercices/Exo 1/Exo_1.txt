@@ -1,0 +1,26 @@
+Pour un site internet il y a 2 parties bien différentes : 
+	_ Client;
+	_ Serveur.
+
+La partie client représente ce qu'un utilisateur lambda voit, c'est à dire le visuel de la page qui est affiché sur le navigateur. C'est plus communémant appelé FrontEnd.
+La partie serveur quand à elle représente ce qu'on ne voit pas. Le site envoie des données tout au long de la navigation de l'utilisateur. C'est appelé BackEnd.
+
+Un site sur un serveur local ne peut être acceder que par l'ordinateur où celui-ci est allumé, alors que pour un site sur un serveur distant la plupart des ordinateurs peuvent y acceder.
+
+WAMP (Windows Apache MySQL PHP):
+	Windows : Système d'exploitation qui attribut des ressources pour les trois composants qui suivent
+	Apache : Il sert de serveur web et est en relation avec le navigateur
+	MySQL : Stocke les données
+	PHP : Langage qui sert de logique.
+
+Pour parler des différents types de langages, on doit différencier FrontEnd et BackEnd.
+
+Pour le FrontEnd :
+	HTML : Il permet de faire le squelette du site web, faire l'architecture et y insérer les différents éléments.
+	CSS : Il permet de designer le site en permettant de rajouter la couleur, les formes, et même de déplacer les différents éléments en liant les élements style aux balises (class, id, balise).
+
+Pour le BackEnd :
+	PHP : Il permet de faire de l'algorithmie et de créer une page web dynamique en gérant les bases de données.
+
+Cas particulier :
+	JS : Il permet de faire à la fois du FrontEnd et du BackEnd. En FrontEnd il permet de faire des animations et rendre un site dynamique. En BackEnd il permet aussi de gérer des bases de données et l'algorithmie.

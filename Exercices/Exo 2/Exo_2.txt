@@ -1,0 +1,17 @@
+Question 1 :
+	Ce sont des entités
+
+Question 2 :
+	C'est une relation
+
+Question 3 :
+	On doit mettre 0,1 pour les 2 cardinalités car :
+		si on n'accepte pas la polygamie pour les 2 alors la femme peut avoir 0 ou 1 seul mari, et l'homme peut avoir 0 ou 1 seule femme
+
+Questions 4 : 
+	On doit mettre 0,n pour la cardinalités au niveau de la femme et 0,1 pour l'homme car :
+		si on accepte la polygamie pour la femme mais pas pour l'homme, alors la femme peut avoir 0 ou plusieurs (représenté par n) mari, et l'homme peut avoir 0 ou 1 seule femme
+
+Question 5 :
+	On doit mettre 0,n pour les 2 cardinalités
+		si on accepte la polygamie pour les 2 alors la femme peut avoir 0 ou plusieurs (représenté par n) mari, et l'homme peut avoir 0 ou plusieurs (représenté par n) femme

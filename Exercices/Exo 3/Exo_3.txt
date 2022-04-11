@@ -1,0 +1,17 @@
+Question 1 :
+	Un patient peut faire 1 ou plusieurs consultations
+
+Question 2 :
+	Un médecin peut recevoir 0 ou plusieurs patients
+
+Question 3 :
+	Non car il ne peut donner une consultation à 1 et 1 seul patient à la fois
+
+Question 4 :
+	Il faut avoir une consultation avec 10 médicaments de prescrit ou alors avoir 10 consultation avec 10 médicaments différents
+
+Question 5 :
+	Oui on peut car une consultation peut prescrire 0 ou plusieurs médicaments
+
+Question 6 :
+	Oui car un médicament peut être dans 0 ou plusieurs consultations différentes et donc différents médecin peuvent le prescrire

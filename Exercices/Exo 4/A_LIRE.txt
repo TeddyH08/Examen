@@ -1,0 +1,1 @@
+Pour l'exemple 1 la cardinalité entre vehicule_vendu et possede est 1,1 et pas 1,n
